@@ -1,5 +1,6 @@
 # 3D Printer Tools/Settings
-For my UM2 like modified 3D Printer (SCOOVO X9)
+For my UM2 like modified 3D Printer (SCOOVO X9 base)
+![](./printing.jpeg)
 
 ## Configurations
 
